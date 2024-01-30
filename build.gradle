@@ -33,6 +33,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-mustache')
     compile('com.h2database:h2')
     compile('org.springframework.session:spring-session-jdbc')
+    compile('org.springframework.session:spring-session-jdbc:2.1.6.RELEASE')
 
 
     compile('org.mariadb.jdbc:mariadb-java-client')
